@@ -1,3 +1,2 @@
-# 
-## Jaime Speed's Portfolio
+# Jaime Speed's Portfolio
 <img src="0.jpeg">
