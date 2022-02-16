@@ -1,20 +1,8 @@
-body {
-  margin: 25px;
-  background-color: rgb(240,240,240);
-  font-tamily: monaco;
-  font-size; 15px;
-}
 title {
   color: blue;
   font-family: monaco;
   font-size: 20px
   margin: 25px;
-}
-p1 {
-  color: powderblue;
-  font-family: monaco;
-  font size: 85%;
-  margin: 50px;
 }
 img {
   object-position: 15% 100%;
