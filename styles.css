@@ -5,6 +5,9 @@ title {
   margin: 25px;
 }
 img {
-  object-position: 15% 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
    
