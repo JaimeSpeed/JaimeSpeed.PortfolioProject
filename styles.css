@@ -1,8 +1,5 @@
-title {
-  color: $blue-800;
-  font-family: monaco;
-  font-size: 20px
-  margin: 25px;
+h1 {
+font-size: regular 400;
 }
 
    
