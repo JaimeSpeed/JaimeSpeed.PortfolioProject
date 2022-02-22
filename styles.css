@@ -11,6 +11,7 @@ a {
   background: yellow;
   color: DeepSkyBlue;
   text-decoration: none;
+  display: inline-block; 
 }
 
    
