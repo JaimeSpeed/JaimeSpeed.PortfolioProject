@@ -12,7 +12,7 @@ a:link, a:visited {
   color: yellow;
   padding: 14px 25px;
   text-align: center; 
-  text-decoration: none;
+  text-decoration: transparent;
   display: inline-block;
 }
 
