@@ -10,9 +10,12 @@ img {
 a {
   background: yellow;
   color: DeepSkyBlue;
+  text-decoration: none;
 }
 a1 {
   background: black;
   color: white;
+  text-decoration: none;
+  
 }
    
